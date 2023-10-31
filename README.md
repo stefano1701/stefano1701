@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefano1701
-- 👀 I’m interested in R and C#.
-- 🌱 I’m currently learning R and C#.
+- 👀 I’m interested in Python and C#.
+- 🌱 I’m currently learning Python and C#.
 - 📫 Email is best way to contact me.
 
 <!---
